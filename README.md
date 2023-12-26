@@ -1,5 +1,5 @@
 # Il mio Project Work di SQL
-In questo repository descrivo un mio progetto di analisi dei dati che ho svolto a fini didattici su dati fittizi con il lingaggio SQL.
+In questo repository descrivo un mio progetto di analisi dei dati che ho svolto a fini didattici su dati fittizi con il linguaggio SQL.
 Il codice presente crea un database su SQL Server, lo popola con una bulk insert ed esegue delle Query SQL di analisi.
 
 In un laboratorio chimico è stato introdotto un nuovo macchinario per eseguire gli esperimenti su determinate molecole.
